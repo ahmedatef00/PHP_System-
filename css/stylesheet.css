@@ -1,0 +1,36 @@
+.navbar {
+    padding: 0 1rem;
+    font-size: 20px;
+    color: rgba(10, 10, 10, 0.9);
+    background-color: #fff !important;
+}
+
+.navbar-brand > img {
+    width: 50px;
+    height: 50px;
+}
+
+.form-group-login {
+    float: left;
+    margin-right: 1rem;
+}
+
+body {
+    background-color: #ccc;
+}
+
+.col-md-6, .col-md-8 {
+    background-color: #fff;
+}
+
+.danger {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.reset-password > a {
+    color: #333 !important;
+}
